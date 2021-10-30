@@ -1,0 +1,2 @@
+This document is another example that can be used to test the program.
+It will be read as containing ten words that end with the specified letters.

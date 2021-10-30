@@ -1,0 +1,2 @@
+This is one sentence that will be used to test the program.
+If the program runs as expected, it should analyze this file and report thirteen words that end in the given letters.
